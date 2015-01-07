@@ -1,4 +1,4 @@
-# Eric Beyer MD
+# Eric Beyer <del>MD</del>
 
 Hello?
 
